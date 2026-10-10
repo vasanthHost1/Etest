@@ -1,0 +1,130 @@
+{
+  "brand": {
+    "name": "Foxxy",
+    "tagline": "Music for your mood"
+  },
+  "heading": "Made for you",
+  "subheading": "Personalized playlists, just for you",
+  "showSettings": true,
+  "hero": {
+    "play": "",
+    "slides": [
+      {
+        "kick": "GOOD VIBES ONLY",
+        "title": "Music for",
+        "highlight": "Every Mood",
+        "subtitle": "Discover • Play • Feel",
+        "theme": 1
+      },
+      {
+        "kick": "YOUR SOUNDTRACK",
+        "title": "Find Your",
+        "highlight": "Next Favourite",
+        "subtitle": "Fresh discoveries, made for you",
+        "theme": 2
+      },
+      {
+        "kick": "PRESS PLAY & ESCAPE",
+        "title": "Let the Music",
+        "highlight": "Take You Away",
+        "subtitle": "One mood. Endless songs.",
+        "theme": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "Featured by Foxxy",
+      "songs": []
+    },
+    {
+      "title": "Trending Tamil Songs",
+      "query": "latest tamil songs"
+    },
+    {
+      "title": "Romantic Vibes",
+      "songs": [
+        "Neelothi Sirai",
+        "Dheema Love Insurance Kompany",
+        "Marandhu Poche With Love",
+        "Adi Alaye Parasakthi",
+        "Pattuma Love Insurance Kompany",
+        "Kannamma En Kannamma Kara",
+        "Aiyo Kadhaley With Love",
+        "Ratnamala Parasakthi",
+        "Esa Kaaththa My Lord",
+        "Minnu Vattaam Poochi Sirai"
+      ]
+    },
+    {
+      "title": "Melody & Chill",
+      "songs": [
+        "Munbe Vaa Sillunu Oru Kaadhal",
+        "Kaathalae Kaathalae 96",
+        "Nenjukkul Peidhidum Vaaranam Ayiram",
+        "Un Paarvai Kadhal Reset Repeat",
+        "Kannazhaga 3",
+        "Ennodu Nee Irundhaal I",
+        "Uyire Uyire Bombay",
+        "Thalli Pogathey Achcham Yenbadhu Madamaiyada",
+        "Kanave Kanave David",
+        "Vaseegara Minnale"
+      ]
+    },
+    {
+      "title": "Fresh Discoveries",
+      "query": "new tamil songs"
+    }
+  ],
+  "languages": {
+    "english": {
+      "sections": [
+        {
+          "title": "Romantic Vibes",
+          "songs": [
+            "Die With a Smile Lady Gaga Bruno Mars",
+            "Perfect Ed Sheeran",
+            "Until I Found You Stephen Sanchez",
+            "Birds of a Feather Billie Eilish",
+            "All of Me John Legend",
+            "Those Eyes New West",
+            "Just the Way You Are Bruno Mars",
+            "Until the End of Time Justin Timberlake",
+            "A Thousand Years Christina Perri",
+            "I Wanna Be Yours Arctic Monkeys"
+          ]
+        },
+        {
+          "title": "Feel-Good Hits",
+          "songs": [
+            "APT. ROSÉ Bruno Mars",
+            "As It Was Harry Styles",
+            "Levitating Dua Lipa",
+            "Can't Stop the Feeling Justin Timberlake",
+            "Espresso Sabrina Carpenter",
+            "Shape of You Ed Sheeran",
+            "Good Time Owl City Carly Rae Jepsen",
+            "Firework Katy Perry",
+            "Wake Me Up Avicii",
+            "On Top of the World Imagine Dragons"
+          ]
+        },
+        {
+          "title": "Midnight Chill",
+          "songs": [
+            "Snooze SZA",
+            "golden hour JVKE",
+            "comethru Jeremy Zucker",
+            "ocean eyes Billie Eilish",
+            "The Night We Met Lord Huron",
+            "Slow Dancing in the Dark Joji",
+            "Heather Conan Gray",
+            "Sweater Weather The Neighbourhood",
+            "Apocalypse Cigarettes After Sex",
+            "Sunsetz Cigarettes After Sex"
+          ]
+        }
+      ]
+    }
+  }
+}
